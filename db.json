@@ -1,0 +1,18 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "The Lion King",
+        "year": "1994",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg",
+        "likes": 0
+      },
+      {
+        "id": 2,
+        "title": "Toy Story",
+        "year": "1995",
+        "posterURL": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_.jpg",
+        "likes": 0
+      }
+    ]
+  }
